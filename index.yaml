@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  keycloak-op-chart:
+  - apiVersion: v2
+    appVersion: 25.0.1
+    created: "2024-07-02T11:40:28.290289543Z"
+    description: A Helm chart for Kubernetes
+    digest: bfc074b47644833749e30d00b2932c589fd3cbb8c7e5b3b7107dc88b011a851e
+    icon: https://www.keycloak.org/resources/images/keycloak_icon_512px.svg
+    name: keycloak-op-chart
+    sources:
+    - https://github.com/kbumsik/keycloak-kubernetes/tree/main/charts/keycloak-operator
+    - https://github.com/keycloak/keycloak-k8s-resources
+    - https://github.com/keycloak/keycloak
+    type: application
+    urls:
+    - https://github.com/selinafinance-devops/keycloak-op-chart/releases/download/keycloak-op-chart-0.1.1/keycloak-op-chart-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-07-02T11:40:28.290299491Z"
